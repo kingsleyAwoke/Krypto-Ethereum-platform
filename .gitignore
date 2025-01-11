@@ -1,0 +1,4 @@
+# Dependency directories
+client/node_modules/
+smart_contract/node_modules/
+jspm_packages/
